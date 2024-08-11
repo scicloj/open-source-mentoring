@@ -4,3 +4,6 @@ Resources for the [Scicloj Open Source Mentoring program](https://scicloj.github
 
 [List of projects](./list-of-projects.md)
 
+[List of mentors](./list-of-mentors.md)
+
+
