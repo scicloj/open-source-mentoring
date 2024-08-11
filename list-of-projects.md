@@ -1,6 +1,8 @@
 
 # List of projects
 
+(last updated: 2024-08-11)
+
 Here is the current list of projects for the Scicloj Open Source Mentoring program. Soon we will provide more detailed descriptions.
 
 * add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
@@ -22,3 +24,7 @@ Here is the current list of projects for the Scicloj Open Source Mentoring progr
 * look into early-stage libraries such as [cmdstan-clj](https://github.com/scicloj/cmdstan-clj), try them out, discover problems, and improve
 
 * create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy Viewers](https://github.com/mentat-collective/emmy-viewers) and other relevant visualizationsh
+
+* make various contributions to the [Jank](https://jank-lang.org/) programming language
+
+* create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
