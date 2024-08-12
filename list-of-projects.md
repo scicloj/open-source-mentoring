@@ -3,6 +3,8 @@
 
 (last updated: 2024-08-12)
 
+Here is the current list of projects for the Scicloj Open Source Mentoring program. Soon we will provide more detailed descriptions.
+
 The 🛠 symbol means that somebody has started looking into a project an will probably continue with that.
 
 * 🛠 create [Conjure](https://conjure.oli.me.uk/) bindings for [Clay](https://scicloj.github.io/clay) notebooking
@@ -11,7 +13,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
-Here is the current list of projects for the Scicloj Open Source Mentoring program. Soon we will provide more detailed descriptions.
 
 * add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
 
