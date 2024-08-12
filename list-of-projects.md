@@ -3,6 +3,14 @@
 
 (last updated: 2024-08-12)
 
+The 🛠 symbol means that somebody has started looking into a project an will probably continue with that.
+
+* 🛠 create [Conjure](https://conjure.oli.me.uk/) bindings for [Clay](https://scicloj.github.io/clay) notebooking
+
+* 🛠 create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
+
+* 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
+
 Here is the current list of projects for the Scicloj Open Source Mentoring program. Soon we will provide more detailed descriptions.
 
 * add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
@@ -28,6 +36,5 @@ Here is the current list of projects for the Scicloj Open Source Mentoring progr
 * make various contributions to the [Jank](https://jank-lang.org/) programming language
 
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
-  * create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
-* create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
+* 
