@@ -10,7 +10,7 @@ Here are some recommended practices based on our experience.
 
 * Know where to ask questions. For most Scicloj-related topics, this will often be a stream at the [Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/). For certain topics, it will be a channel at the [Clojurians Slack](http://clojurians.net).
 
-* Remember it is just fine to be confused. There is a lot we do know, and being comfortable with that is important.
+* Remember it is just fine to be confused. Being comfortable with that is important.
 
 * But do not remain stuck. If it seems there is no way forward, get help over the chat streams.
 
