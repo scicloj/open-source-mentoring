@@ -1,18 +1,17 @@
 
 # List of projects
 
-(last updated: 2024-08-12)
+(last updated: 2024-08-15)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program. Soon we will provide more detailed descriptions.
 
 The 🛠 symbol means that somebody has started looking into a project an will probably continue with that.
 
-* 🛠 create [Conjure](https://conjure.oli.me.uk/) bindings for [Clay](https://scicloj.github.io/clay) notebooking
-
 * 🛠 create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
 * 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
+* extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
 
 * add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
 
@@ -36,3 +35,4 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
 
+* create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
