@@ -11,9 +11,9 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
-* extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
+* 🛠 extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
 
-* add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
+* 🛠 add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
 
 * port Java/XML exmaples of [Tribuo](https://tribuo.org/) to Clojure/EDN ones for [scicloj.ml.tribuo](https://github.com/scicloj/scicloj.ml.tribuo)
 
@@ -37,4 +37,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
 
-* [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth)
+* [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth) for relevant tasks
+
+* join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
