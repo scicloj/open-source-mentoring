@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-08-15)
+(last updated: 2024-08-16)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program. Soon we will provide more detailed descriptions.
 
@@ -36,3 +36,5 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
 
 * create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
+
+* [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth)
