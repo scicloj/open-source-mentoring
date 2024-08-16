@@ -1,6 +1,10 @@
 # open-source-mentoring
 
-Resources for the [Scicloj Open Source Mentoring program](https://scicloj.github.io/docs/community/groups/open-source-mentoring/):
+Scicloj offers a clear path to getting involved in open-source tools and libraries, both new and established.
+
+See the general information at the [Scicloj Open Source Mentoring program](https://scicloj.github.io/docs/community/groups/open-source-mentoring/) page.
+
+This repo provides additional resources.
 
 [List of projects](./list-of-projects.md)
 
