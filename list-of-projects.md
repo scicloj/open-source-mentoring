@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-08-16)
+(last updated: 2024-08-17)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -18,6 +18,8 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * 🛠 create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
 
 * 🛠 build a [Kindly](https://scicloj.github.io/kindly-noted/) adapter for [Clojupyter](https://github.com/clojupyter/clojupyter)
+
+* help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
 
 * port Java/XML exmaples of [Tribuo](https://tribuo.org/) to Clojure/EDN ones for [scicloj.ml.tribuo](https://github.com/scicloj/scicloj.ml.tribuo)
 
