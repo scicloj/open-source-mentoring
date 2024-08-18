@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-08-17)
+(last updated: 2024-08-18)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -19,7 +19,9 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 build a [Kindly](https://scicloj.github.io/kindly-noted/) adapter for [Clojupyter](https://github.com/clojupyter/clojupyter)
 
-* help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
+* 🛠 help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
+
+* 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey.
 
 * port Java/XML exmaples of [Tribuo](https://tribuo.org/) to Clojure/EDN ones for [scicloj.ml.tribuo](https://github.com/scicloj/scicloj.ml.tribuo)
 
