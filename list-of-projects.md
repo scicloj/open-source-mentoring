@@ -23,6 +23,8 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey.
 
+* 🛠 convert to Clojure parts of the code of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas.
+
 * port Java/XML exmaples of [Tribuo](https://tribuo.org/) to Clojure/EDN ones for [scicloj.ml.tribuo](https://github.com/scicloj/scicloj.ml.tribuo)
 
 * contribute docstrings and unit tests to [dtype-next](https://github.com/cnuernber/dtype-next)
