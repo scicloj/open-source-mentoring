@@ -5,7 +5,7 @@
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
-The 🛠 symbol means that somebody has started looking into a project an will probably continue with that.
+The 🛠 symbol means that somebody has started looking into a project an will probably continue with that. Note that in some of these projects, there is still room for collaboration.
 
 * 🛠 create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
@@ -21,9 +21,11 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
 
-* 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey.
+* 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
 
-* 🛠 convert to Clojure parts of the code of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas.
+* 🛠 convert to Clojure parts of the code of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+
+* 🛠 make various contributions to the [Jank](https://jank-lang.org/) compiler
 
 * port Java/XML exmaples of [Tribuo](https://tribuo.org/) to Clojure/EDN ones for [scicloj.ml.tribuo](https://github.com/scicloj/scicloj.ml.tribuo)
 
@@ -40,7 +42,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * look into early-stage libraries such as [cmdstan-clj](https://github.com/scicloj/cmdstan-clj), try them out, discover problems, and improve
 
-* make various contributions to the [Jank](https://jank-lang.org/) programming language
 
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
 
