@@ -4,6 +4,8 @@ Scicloj offers a clear path to getting involved in open-source tools and librari
 
 See the general information at the [Scicloj Open Source Mentoring program](https://scicloj.github.io/docs/community/groups/open-source-mentoring/) page.
 
+19 people have joined the project as menteed, alongside the 5 mentors. There is still room for more.
+
 This repo provides additional resources.
 
 [List of projects](./list-of-projects.md)
