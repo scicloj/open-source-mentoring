@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-08-19)
+(last updated: 2024-08-20)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -37,15 +37,14 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * add support for data formats (e.g. Zarr, Avro) conversion for [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset)
 
-
 * improve the Clojure integration in [Quarto](https://quarto.org/)
 
 * [translate a book chapter](https://github.com/scicloj/translating-books) to Clojure
 
 * look into early-stage libraries such as [cmdstan-clj](https://github.com/scicloj/cmdstan-clj), try them out, discover problems, and improve
 
-
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
 
-
 * join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
+
+* update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
