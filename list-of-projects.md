@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-08-24)
+(last updated: 2024-08-28)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -19,11 +19,11 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 build a [Kindly](https://scicloj.github.io/kindly-noted/) adapter for [Clojupyter](https://github.com/clojupyter/clojupyter)
 
-* 🛠 help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
-
 * 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
 
 * 🛠 update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
+
+* 🛠 🌟 help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
 
 * 🛠 🌟 convert to Clojure parts of the code of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
@@ -48,4 +48,3 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
 
 * join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
-
