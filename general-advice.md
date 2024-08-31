@@ -16,7 +16,7 @@ Here are some recommended practices based on our experience.
 
 * Know what your main next steps are, and discuss their priorities. It is fine to spend some time in curious explorations, but it is recommended that a decent portion of your time will be spent on directions that are justified by your goals.
 
-* Know when your next meeting is. For most projects, we recommend having a weekly meeting with your mentor or other collaborators. 
+* Know when your next meeting is. For most projects, we recommend having a regular weekly meeting with your mentor or other collaborators. 
 
 * Share your work-in-progress in the chat and seek feedback. In doing so, you will encourage others.
 
