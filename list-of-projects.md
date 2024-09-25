@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-09-06)
+(last updated: 2024-09-25)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -12,8 +12,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
 * 🛠 extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
-
-* 🛠 add a function for printing linear regression models in [Fastmath](https://github.com/generateme/fastmath)
 
 * 🛠 create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
 
