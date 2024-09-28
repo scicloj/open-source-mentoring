@@ -1,13 +1,12 @@
 
 # List of projects
 
-(last updated: 2024-09-25)
+(last updated: 2024-09-28)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
 The 🛠 symbol means that somebody has started looking into a project an will probably continue with that. Note that in 🌟 some of these projects, there is still room for collaboration.
 
-* 🛠 create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
 * 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
@@ -30,6 +29,8 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * 🛠 🌟 [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth) for relevant tasks
 
 * 🛠 🌟 join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
+
+* create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
 * join the development of the [Hanamicloth](https://scicloj.github.io/hanamicloth) datavis library
 
