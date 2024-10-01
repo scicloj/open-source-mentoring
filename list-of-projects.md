@@ -12,10 +12,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
 
-* 🛠 create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
-
-* 🛠 build a [Kindly](https://scicloj.github.io/kindly-noted/) adapter for [Clojupyter](https://github.com/clojupyter/clojupyter)
-
 * 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
 
 * 🛠 update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
@@ -52,3 +48,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * create a bridge to a relevant C or C++ library using [clong](https://github.com/phronmophobic/clong)
 
+* build a [Kindly](https://scicloj.github.io/kindly-noted/) adapter for [Clojupyter](https://github.com/clojupyter/clojupyter)
+
+* create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
