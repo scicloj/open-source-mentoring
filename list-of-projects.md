@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-09-28)
+(last updated: 2024-10-13)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -25,6 +25,8 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * 🛠 🌟 [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth) for relevant tasks
 
 * 🛠 🌟 join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
+
+* extend the [Fastmath VectorProto protocol](https://github.com/generateme/fastmath/blob/60e65bf/src/fastmath/protocols.clj#L78) to support mode types
 
 * create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
