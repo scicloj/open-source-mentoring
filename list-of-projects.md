@@ -1,20 +1,17 @@
 
 # List of projects
 
-(last updated: 2024-10-13)
+(last updated: 2024-11-06)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
 The 🛠 symbol means that somebody has started looking into a project an will probably continue with that. Note that in 🌟 some of these projects, there is still room for collaboration.
 
-
 * 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
-
-* 🛠 extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
 
 * 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
 
-* 🛠 update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
+* 🛠 🌟 extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
 
 * 🛠 🌟 help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
 
@@ -26,11 +23,17 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * 🛠 🌟 join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
 
-* extend the [Fastmath VectorProto protocol](https://github.com/generateme/fastmath/blob/60e65bf/src/fastmath/protocols.clj#L78) to support mode types
+* 🛠 🌟 improve the Clojure integration in [Quarto](https://quarto.org/)
+
+* Write a tutorial about [Tablecloth](https://scicloj.github.io/tablecloth/)
+
+* update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
+
+* extend the [Fastmath VectorProto protocol](https://github.com/generateme/fastmath/blob/60e65bf/src/fastmath/protocols.clj#L78) to support more types
 
 * create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
 
-* join the development of the [Hanamicloth](https://scicloj.github.io/hanamicloth) datavis library
+* join the development of the [Tableplot](https://scicloj.github.io/tableplot) datavis library
 
 * help improve [Calva](https://calva.io/)'s support for data-science
 
@@ -42,7 +45,6 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 
 * add support for data formats (e.g. Zarr, Avro) conversion for [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset)
 
-* improve the Clojure integration in [Quarto](https://quarto.org/)
 
 * [translate a book chapter](https://github.com/scicloj/translating-books) to Clojure
 
