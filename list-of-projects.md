@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2024-12-12)
+(last updated: 2025-01-03)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -28,6 +28,8 @@ The 🛠 symbol means that somebody has started looking into a project an will p
 * 🛠 🌟 improve the Clojure integration in [Quarto](https://quarto.org/)
 
 * 🛠 🌟 Write a tutorial about [Tablecloth](https://scicloj.github.io/tablecloth/)
+
+* Help build and test [Tablemath](https://scicloj.github.io/tablemath/)
 
 * update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
 
