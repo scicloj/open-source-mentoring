@@ -1,33 +1,31 @@
 
 # List of projects
 
-(last updated: 2025-01-03)
+(last updated: 2025-02-13)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
-The 🛠 symbol means that somebody has started looking into a project an will probably continue with that. Note that in 🌟 some of these projects, there is still room for collaboration.
+* create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
-* 🛠 create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
+* help document [Noj](https://scicloj.github.io/noj)
 
-* 🛠 convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
+* help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
 
-* 🛠 🌟 extend the [Conjure](https://conjure.oli.me.uk/) [bindings](https://github.com/Olical/conjure/wiki/Integrating-with-Clay-and-data-visualisation-tools) for [Clay](https://scicloj.github.io/clay) notebooking - add Quarto support, etc.
+* convert to Clojure parts of the code of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
-* 🛠 🌟 help document [Noj](https://scicloj.github.io/noj)
+* make various contributions to the [Jank](https://jank-lang.org/) compiler
 
-* 🛠 🌟 help document [the upcoming version 3 of Fastmath](https://github.com/generateme/fastmath/tree/3.x)
+* [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth) for relevant tasks
 
-* 🛠 🌟 convert to Clojure parts of the code of [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+* join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
 
-* 🛠 🌟 make various contributions to the [Jank](https://jank-lang.org/) compiler
+* improve the Clojure integration in [Quarto](https://quarto.org/)
 
-* 🛠 🌟 [Tablecloth](https://scicloj.github.io/tablecloth/)-related tasks - see [Zulip discussion](https://clojurians.zulipchat.com/#narrow/stream/451344-scicloj-open-source-mentoring/topic/Tablecloth) for relevant tasks
+* Write a tutorial about [Tablecloth](https://scicloj.github.io/tablecloth/)
 
-* 🛠 🌟 join the [Clay](https://scicloj.github.io/clay/) team and take on Clay-related tasks
+* convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
 
-* 🛠 🌟 improve the Clojure integration in [Quarto](https://quarto.org/)
-
-* 🛠 🌟 Write a tutorial about [Tablecloth](https://scicloj.github.io/tablecloth/)
+* Add a language or a runtime to the [Std.lang](https://clojureverse.org/t/std-lang-a-universal-template-transpiler/10101) universal transpiler, or help document its existing languages and runtimes.
 
 * Help build and test [Tablemath](https://scicloj.github.io/tablemath/)
 
