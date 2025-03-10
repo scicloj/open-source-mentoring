@@ -1,9 +1,11 @@
 
 # List of projects
 
-(last updated: 2025-02-13)
+(last updated: 2025-03-10)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
+
+* contribute a talk to the [SciNoj Light](https://scicloj.github.io/docs/community/groups/scinoj-light/) conference
 
 * create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
 
