@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2025-03-10)
+(last updated: 2025-03-20)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -35,7 +35,7 @@ Here is the current list of projects for the Scicloj Open Source Mentoring progr
 
 * extend the [Fastmath VectorProto protocol](https://github.com/generateme/fastmath/blob/60e65bf/src/fastmath/protocols.clj#L78) to support more types
 
-* create a bridge to the [Stan](https://mc-stan.org/) library for statistical computing - in other words, add Clojure to the [BridgeStan](https://roualdes.github.io/bridgestan/latest/) project of polyglot Stan bindings
+* create a Clojure Doman Specific Language for statistical models on top of the [Stan](https://mc-stan.org/) library for statistical computing
 
 * join the development of the [Tableplot](https://scicloj.github.io/tableplot) datavis library
 
@@ -58,3 +58,5 @@ Here is the current list of projects for the Scicloj Open Source Mentoring progr
 * build a [Kindly](https://scicloj.github.io/kindly-noted/) adapter for [Clojupyter](https://github.com/clojupyter/clojupyter)
 
 * create a Clojure backend to Plotly's [Dash](https://dash.plotly.com/) (a polyglot (Python/R/Julia/F#) dashboarding system)
+
+* write a tutorial to a math topic
