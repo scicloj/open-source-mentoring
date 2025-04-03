@@ -1,7 +1,7 @@
 
 # List of projects
 
-(last updated: 2025-03-20)
+(last updated: 2025-04-03)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
@@ -23,13 +23,13 @@ Here is the current list of projects for the Scicloj Open Source Mentoring progr
 
 * improve the Clojure integration in [Quarto](https://quarto.org/)
 
-* Write a tutorial about [Tablecloth](https://scicloj.github.io/tablecloth/)
+* create a beginner-friendly devcontainer setup for learning Clojure
 
 * convert to Clojure parts of the code of [Think DSP](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey
 
-* Add a language or a runtime to the [Std.lang](https://clojureverse.org/t/std-lang-a-universal-template-transpiler/10101) universal transpiler, or help document its existing languages and runtimes.
+* add a language or a runtime to the [Std.lang](https://clojureverse.org/t/std-lang-a-universal-template-transpiler/10101) universal transpiler, or help document its existing languages and runtimes.
 
-* Help build and test [Tablemath](https://scicloj.github.io/tablemath/)
+* help build and test [Tablemath](https://scicloj.github.io/tablemath/)
 
 * update the [clojisr-examples](https://github.com/scicloj/clojisr-examples) collection of tutorials: convert existing notebooks to the [Kindly](https://scicloj.github.io/kindly/) convention and using [Clay](https://scicloj.github.io/clay/), as we did with the [Clojisr Documentation](https://scicloj.github.io/clojisr); then work on additional tutorials.
 
