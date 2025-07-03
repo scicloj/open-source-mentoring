@@ -1,13 +1,11 @@
 
 # List of projects
 
-(last updated: 2025-05-23)
+(last updated: 2025-07-03)
 
 Here is the current list of projects for the Scicloj Open Source Mentoring program.
 
-* contribute a talk to the [SciNoj Light](https://scicloj.github.io/docs/community/groups/scinoj-light/) conferences
-
-* create a [Scittle](https://github.com/babashka/scittle) plugin for [Emmy-viewers](https://github.com/mentat-collective/emmy-viewers)
+* contribute a talk to a future conference similar to [SciNoj Light](https://scicloj.github.io/scinoj-light-1/)
 
 * help document [Noj](https://scicloj.github.io/noj)
 
@@ -38,8 +36,6 @@ Here is the current list of projects for the Scicloj Open Source Mentoring progr
 * create a Clojure Doman Specific Language for statistical models on top of the [Stan](https://mc-stan.org/) library for statistical computing
 
 * join the development of the [Tableplot](https://scicloj.github.io/tableplot) datavis library
-
-* help improve [Calva](https://calva.io/)'s support for data-science
 
 * port Java/XML exmaples of [Tribuo](https://tribuo.org/) to Clojure/EDN ones for [scicloj.ml.tribuo](https://github.com/scicloj/scicloj.ml.tribuo)
 
